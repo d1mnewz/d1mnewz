@@ -33,9 +33,10 @@ Nowadays I'm building distributed systems as Software Engineer with great passio
 
 ### Dimko, the cyclist
 
+The first solo cycling trip I took when I was 3 years old - my dad let me go to the local shop for the ice-cream on my own. The distance was tremendous - around 300 meters. 
+I felt the spirit of freedom, the wind in my ears, the power you put into pedalling, all the fancy looks at me - and I knew cycling is getting me through the life.
+Starting from that point, I started mastering cycling - like street, BMX, freeride, trails, road, track, unicycle - literally anything. I did some professional road cycling back in the day, but found that to be too dangerous, even tho it's still one of my favorite hobbies - to cycle! 
+
 ![Cycle](IMG_2557.jpg)
 ![Cycle](IMG_1695.jpg)
 ![Cycle](IMG_9133.jpg)
-
-
-
