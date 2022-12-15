@@ -1,3 +1,21 @@
+### Dimko, Ukrainian charity fund leader
+
+I have created a charity fund in the name of my dog Dzyga - Dzyga's Paw! 
+
+dzygaspaw.com
+
+I am Ukrainian and my country has been invaded in 2014 by Russia. The invasion was very barbaric and I was not able to deal with my IT duties while my countrymen were tortured and killed by Russian forces.
+
+So, I decided to do my best to help Ukrainian Forces win, eliminate Russians once and forever, push the invaders out of my country.
+24th February 2022, when the most recent Russian barbaric invasion began, I decided quit my IT job and dedicate myself solely to volunteering efforts. By activating all of my connections in the military, I decided to help various units where he had friends – so they can fight better. Drones, StarLinks, night vision, radios, generators, EOD equipment – all of that I initially bought using my own savings, realizing that this is a war for survival of Ukrainian nation.
+
+![Helping military](hm.jpg)
+
+I also started sharing these efforts in public on my [Twitter page](twitter.com/dim0kq), and immediately people started donating towards my work after seeing it’s honest and genuine, and makes real impact. Over a few months, I've been able to send more than 100 parcels to my military friends, and gather more than 600 000 USD from small donations.
+
+That’s how Dzyga’s Paw originated – a charity fund aimed at supplying Ukrainian military in Russo-Ukrainian war, in the name of Dzyga dog who wants to live in free independent Ukraine, and, therefore, gives her paw of help to Ukrainian fighters!
+![Paw](paw.jpg)
+
 ### Dimko, the community leader👋
 
 I am leader of local software engineering community @lvivdotnet. This passion incorporates inspiring people by introducing them into the community of other people who professionally are different from them thus there is always a room for learning or mentoring for somebody. The main idea behind is not to only have tech talks which bring practical value (and could be pretty much seen on YouTube) but to have people connect in the community, meaning introduce them to the group projects, have them discuss contraversial topics, collaborate, make new friends, and learn from each other.
