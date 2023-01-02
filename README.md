@@ -15,7 +15,7 @@ I also started sharing these efforts in public on my [Twitter page](twitter.com/
 
 That’s how Dzyga’s Paw originated – a charity fund aimed at supplying Ukrainian military in Russo-Ukrainian war, in the name of Dzyga dog who wants to live in free independent Ukraine, and, therefore, gives her paw of help to Ukrainian fighters!
 
-If you want to support me personally, not charity fund, please refer to [patreon.com/dimko](patreon.com/dimko)
+If you want to support me personally, not charity fund, please refer to [patreon.com/dimko](patreon.com/dimko). Thanks! 﫡
 
 
 ![Dzyga's Paw](EACF5D19-1C93-4067-A148-0613069801BE.jpeg)
