@@ -1,8 +1,8 @@
 ### Dimko, Ukrainian charity fund leader
 
-I have created a charity fund in the name of my dog Dzyga - Dzyga's Paw! 
+I have created a charity fund in the name of my dog Dzyga - Dzyga's Paw!
 
-dzygaspaw.com
+[dzygaspaw.com](dzygaspaw.com)
 
 I am Ukrainian and my country has been invaded in 2014 by Russia. The invasion was very barbaric and I was not able to deal with my IT duties while my countrymen were tortured and killed by Russian forces.
 
@@ -14,6 +14,8 @@ So, I decided to do my best to help Ukrainian Forces win, eliminate Russians onc
 I also started sharing these efforts in public on my [Twitter page](twitter.com/dim0kq), and immediately people started donating towards my work after seeing it’s honest and genuine, and makes real impact. Over a few months, I've been able to send more than 100 parcels to my military friends, and gather more than 600 000 USD from small donations.
 
 That’s how Dzyga’s Paw originated – a charity fund aimed at supplying Ukrainian military in Russo-Ukrainian war, in the name of Dzyga dog who wants to live in free independent Ukraine, and, therefore, gives her paw of help to Ukrainian fighters!
+
+If you want to support me personally, not charity fund, please refer to [patreon.com/dimko](patreon.com/dimko)
 
 
 ![Dzyga's Paw](EACF5D19-1C93-4067-A148-0613069801BE.jpeg)
