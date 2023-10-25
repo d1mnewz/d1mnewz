@@ -9,7 +9,7 @@ I am Ukrainian and my country has been invaded in 2014 by Russia. The invasion w
 So, I decided to do my best to help Ukrainian Forces win, eliminate Russians once and forever, push the invaders out of my country.
 24th February 2022, when the most recent Russian barbaric invasion began, I decided quit my IT job and dedicate myself solely to volunteering efforts. By activating all of my connections in the military, I decided to help various units where he had friends – so they can fight better. Drones, StarLinks, night vision, radios, generators, EOD equipment – all of that I initially bought using my own savings, realizing that this is a war for survival of Ukrainian nation.
 
-![Helping military](F9422743-EBE1-437B-BEDF-4309D4160F67.jpeg)
+![Helping military](Dimko_Sich.jpg)
 
 I also started sharing these efforts in public on my [Twitter page](twitter.com/dim0kq), and immediately people started donating towards my work after seeing it’s honest and genuine, and makes real impact. Over a few months, I've been able to send more than 100 parcels to my military friends, and gather more than 600 000 USD from small donations.
 
