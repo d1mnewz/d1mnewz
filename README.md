@@ -1,6 +1,10 @@
 ### Dimko, Ukrainian charity fund leader
 
-I have created a charity fund in the name of my dog Dzyga - Dzyga's Paw!
+I run Ukrainian charity fund to help Ukrainian military!
+
+We have supplied over 1.500.000$ worth of high-tech equipment to the frontlines to help protect freedom in Ukraine against russsian invasion! 
+
+Btw, the charity is named after my dog Dzyga - more specifically, named after her paw - Dzyga's Paw!
 
 [dzygaspaw.com](dzygaspaw.com)
 
