@@ -1,6 +1,6 @@
 # Hey, I'm Dimko 👋
 
-Ex-tech lead, now a Ukrainian warfighter and founder of a charity fund.
+Ex-tech lead, now a Ukrainian warfighter and founder of a charity fund. Drone warfare expert.
 
 ## 🪖 Warfighter
 
